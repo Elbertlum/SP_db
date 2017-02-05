@@ -1,0 +1,23 @@
+{
+  "name": "sp_db",
+  "version": "1.0.0",
+  "description": "database server for sp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbertlum/SP_db.git"
+  },
+  "author": "elbert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Elbertlum/SP_db/issues"
+  },
+  "homepage": "https://github.com/Elbertlum/SP_db#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
