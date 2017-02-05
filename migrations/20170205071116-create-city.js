@@ -14,7 +14,7 @@ module.exports = {
       code: {
         type: Sequelize.INTEGER
       },
-      adminarea: {
+      AdminAreaId: {
         type: Sequelize.INTEGER
       },
       createdAt: {

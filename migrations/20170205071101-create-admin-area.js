@@ -14,7 +14,7 @@ module.exports = {
       code: {
         type: Sequelize.INTEGER
       },
-      country: {
+      CountryId: {
         type: Sequelize.INTEGER
       },
       createdAt: {
