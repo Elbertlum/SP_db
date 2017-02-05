@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/Elbertlum/SP_db#readme",
   "dependencies": {
-    "express": "^4.14.1"
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1",
+    "pg": "^6.1.2",
+    "pg-hstore": "^2.3.2",
+    "sequelize": "^3.30.1",
+    "sequelize-cli": "^2.5.1"
   }
 }
